@@ -28,7 +28,7 @@ Follow the steps below to set up the Razorpay Payment Gateway Backend:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/razorpay-payment-backend-nodejs.git
+git clone https://github.com/thakur-ajeetsingh-chauhan/razorpay-payment-backend-nodejs.git
 cd razorpay-payment-backend-nodejs
 ```
 
